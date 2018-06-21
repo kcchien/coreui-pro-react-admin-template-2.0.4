@@ -1,0 +1,6 @@
+{
+  "name": "CodeEditors",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CodeEditors.js"
+}
